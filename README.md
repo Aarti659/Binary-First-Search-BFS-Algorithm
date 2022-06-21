@@ -1,6 +1,3 @@
-# Binary-First-Search-BFS-Algorithm
-
-
 #include <iostream.h>
 #include <stdlib.h>
 #include <list>
